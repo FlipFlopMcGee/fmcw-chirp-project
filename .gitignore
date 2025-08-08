@@ -1,0 +1,6 @@
+#Ignoring data files and stuff
+data/
+charts/*.png
+
+__pycache__/
+*.pyc

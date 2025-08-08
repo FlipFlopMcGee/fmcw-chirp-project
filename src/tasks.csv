@@ -1,0 +1,6 @@
+Task,Owner,Start,End,Status,Depends_On
+Literature review,You,2025-08-08,2025-08-15,In progress,
+Set up GitHub repo,You,2025-08-09,2025-08-10,Not started,
+Define milestones,You,2025-08-10,2025-08-12,Not started,Set up GitHub repo
+Radar sim notebook,You,2025-08-11,2025-08-18,Not started,Define milestones
+RFSoC reading notes,You,2025-08-09,2025-08-14,In progress,
